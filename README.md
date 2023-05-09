@@ -5,4 +5,4 @@
 ##### Header 5
 ###### Header 6
 
-![Leonardo DiCaprio](/image.jpg)
+![Leonardo DiCaprio](/image.jpeg)
